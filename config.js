@@ -98,10 +98,10 @@ config = {
         database: {
             client: 'mysql',
             connection: {
-                host     : '127.0.0.1',
-                user     : 'root',
-                password : '',
-                database : 'ghost_testing',
+                host     : '10.4.26.93',
+                user     : 'uTNSviCVQGNze',
+                password : 'pvEVMMEIxnuIw',
+                database : 'de76e4abe98d24865b399201289f1a502',
                 charset  : 'utf8'
             }
         },
